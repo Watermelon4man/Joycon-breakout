@@ -4,4 +4,5 @@
  
  The dimensions of the board are 6mm x 6mm with 1mm pitch holes.
 
-![Joycon breakout pcb](https://user-images.githubusercontent.com/53815775/119399614-66968e00-bcd9-11eb-9dc8-6e3e7face3d2.png)
+![Joycon breakout pcb](https://user-images.githubusercontent.com/53815775/119404748-854c5300-bce0-11eb-954c-c087c2c5bed5.png)
+
