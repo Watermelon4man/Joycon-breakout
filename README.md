@@ -6,3 +6,4 @@
 
 ![Joycon breakout pcb](https://user-images.githubusercontent.com/53815775/119404748-854c5300-bce0-11eb-954c-c087c2c5bed5.png)
 
+![Joycon breakout pcb V2](https://user-images.githubusercontent.com/53815775/121954317-e951bc80-cd5e-11eb-8029-05fb24ecffb6.png)
