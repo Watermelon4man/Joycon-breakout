@@ -8,3 +8,6 @@
 
  The dimensions of the V2 board are 13.7mm x 9mm with 2.54mm pitch holes.
 ![Joycon breakout pcb V2](https://user-images.githubusercontent.com/53815775/121954317-e951bc80-cd5e-11eb-8029-05fb24ecffb6.png)
+
+Extra info:
+https://bitbuilt.net/forums/index.php?threads/nintendo-switch-joysticks-on-other-consoles.2177/
